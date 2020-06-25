@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleUploadFile.WebUI", "src\ExampleUploadFile.WebUI\ExampleUploadFile.WebUI.csproj", "{CA7929F4-9ED0-47A5-8B04-628142C46D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleUploadFile.WebUI", "src\ExampleUploadFile.WebUI\ExampleUploadFile.WebUI.csproj", "{CA7929F4-9ED0-47A5-8B04-628142C46D75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
